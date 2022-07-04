@@ -1,0 +1,31 @@
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orangered;
+}
+.skip-diet{
+    width: 30%;
+    margin: 200px 10px 20px 55px
+}
+.skip-diet p{
+    margin-bottom: 50px;
+}
+.skip-diet-photo{
+    width:100px;
+    margin-top: 0px;
+}
+
+.link-button{
+    
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px
+
+}
